@@ -2,6 +2,10 @@
 
 😊😊This Project was done under the mentor Ankur Agarwal😊😊
 
+📝Libraries used
+____________________________________________________________________________________________________________________
+pandas, matplotlib, numpy, Seaborn, sklearn, yellowbrick
+
 📝Data Description
 _____________________________________________________________________________________________________________________
 The file contains features like InvoiceNo, StockCode, Item Description, Quantity,	InvoiceDate,	UnitPrice, CustomerID,	Country
@@ -15,7 +19,7 @@ ________________________________________________________________________________
 
 ⏳Steps
 ______________________________________________________________________________________________________________________
-🔯Data Cleaning: This step involves removing duplicate records, removing records with missing values
+🔯Data Cleaning: This step involves removing duplicate records, removing records with missing values, removing records having cancelled orders
 
 🔯Data Transformation: This step involves performing cohort analysis, calculating RFM metrics, building RFM segments
 
